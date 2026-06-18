@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Taksh",
+        "Age": 20,
+        "Email": "taksh@gmail.com",
+        "Pin": "1234",
+        "AccountNo": "2561127",
+        "Balance": 90000.0,
+        "Transactions": [
+            {
+                "Type": "Deposit",
+                "Amount": 100000.0,
+                "Date": "18-06-2026 21:16:29"
+            },
+            {
+                "Type": "Withdraw",
+                "Amount": 10000.0,
+                "Date": "18-06-2026 21:16:37"
+            }
+        ]
+    }
+]
