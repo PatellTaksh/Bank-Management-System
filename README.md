@@ -95,7 +95,7 @@ This project helped me practice:
 * Software Project Structure
 
 ---
-
+<!--
 ## Future Improvements
 
 * SQLite Database Integration
@@ -105,3 +105,4 @@ This project helped me practice:
 * CSV Statement Download
 * Admin Panel
 * Cloud Deployment
+-->
